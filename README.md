@@ -1,3 +1,3 @@
-# notebook-demo
+# Notebook Demo
 
 lorem ipsum dolores anum
