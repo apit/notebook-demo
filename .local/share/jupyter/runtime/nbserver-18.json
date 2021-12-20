@@ -1,0 +1,12 @@
+{
+  "base_url": "/user/apit-notebook-demo-7lv6uonk/",
+  "hostname": "0.0.0.0",
+  "notebook_dir": "/home/jovyan",
+  "password": false,
+  "pid": 18,
+  "port": 8888,
+  "secure": false,
+  "sock": "",
+  "token": "oDUsq6v_SO2DVM6FHVo2AQ",
+  "url": "http://0.0.0.0:8888/user/apit-notebook-demo-7lv6uonk/"
+}
